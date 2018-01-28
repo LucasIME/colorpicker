@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorPicker", "ColorPicker\ColorPicker.csproj", "{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Debug|ARM.Build.0 = Debug|ARM
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Debug|x64.ActiveCfg = Debug|x64
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Debug|x64.Build.0 = Debug|x64
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Debug|x64.Deploy.0 = Debug|x64
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Debug|x86.ActiveCfg = Debug|x86
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Debug|x86.Build.0 = Debug|x86
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Debug|x86.Deploy.0 = Debug|x86
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Release|ARM.ActiveCfg = Release|ARM
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Release|ARM.Build.0 = Release|ARM
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Release|ARM.Deploy.0 = Release|ARM
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Release|x64.ActiveCfg = Release|x64
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Release|x64.Build.0 = Release|x64
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Release|x64.Deploy.0 = Release|x64
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Release|x86.ActiveCfg = Release|x86
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Release|x86.Build.0 = Release|x86
+		{2354E5ED-A6A1-40B7-BAB1-5D840543D94A}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23124D22-1B15-4563-B57E-1D5EF3F4DDA6}
+	EndGlobalSection
+EndGlobal
