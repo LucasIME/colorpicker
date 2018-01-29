@@ -8,6 +8,18 @@
     mc:Ignorable="d">
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
-
+        <TextBlock HorizontalAlignment="Left" Margin="10,200,0,0" TextWrapping="Wrap" Text="R:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,220,0,0" TextWrapping="Wrap" Text="G:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,240,0,0" TextWrapping="Wrap" Text="B:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="83,204,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="123" Name="RedValueLabel">
+            <Run Text="Red Value"/>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="83,224,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="123" Name="GreenValueLabel">
+            <Run Text="Green Value"/>
+        </TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="83,244,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="123" Name="BlueValueLabel">
+            <Run Text="Blue Value"/>
+        </TextBlock>
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="10,10,0,0" Stroke="Black" VerticalAlignment="Top" Width="100" Name="CurrentPixelRectangle"/>
     </Grid>
 </Page>
